@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIOLib", "SIOLib\SIOLib.csproj", "{F6311DA9-F03B-4923-B7DC-F59431CB08AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIOLib_CLI", "SIOLib_CLI\SIOLib_CLI.csproj", "{A07EEDD5-53FF-46C6-AC2A-1A14CF037E46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIOLib", "PIOLib\PIOLib.csproj", "{C66B8418-61C7-431A-B9E4-A49EF9AF6C6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6311DA9-F03B-4923-B7DC-F59431CB08AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6311DA9-F03B-4923-B7DC-F59431CB08AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6311DA9-F03B-4923-B7DC-F59431CB08AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6311DA9-F03B-4923-B7DC-F59431CB08AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A07EEDD5-53FF-46C6-AC2A-1A14CF037E46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A07EEDD5-53FF-46C6-AC2A-1A14CF037E46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A07EEDD5-53FF-46C6-AC2A-1A14CF037E46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A07EEDD5-53FF-46C6-AC2A-1A14CF037E46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C66B8418-61C7-431A-B9E4-A49EF9AF6C6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C66B8418-61C7-431A-B9E4-A49EF9AF6C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C66B8418-61C7-431A-B9E4-A49EF9AF6C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C66B8418-61C7-431A-B9E4-A49EF9AF6C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
